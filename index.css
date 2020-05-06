@@ -1,0 +1,140 @@
+        body{
+            background-color: gray;
+        }
+
+
+
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+/*Pubg style start*/
+
+
+
+
+        h4{
+            margin-top: 10px;
+        }
+
+        h4,p{
+
+            padding : 0px 0px 0px 22px; 
+        }
+
+        .firstDive{
+            background-color: white;
+            height: 270px;
+            width: 200px;
+            display: inline-block;
+            margin-left: 300px;
+            margin-top: 300px ;
+          
+            
+
+        }
+
+        .firstDive > img{
+            
+            margin: 25px 25px 0px 25px  ;
+        }
+
+        .ratings{
+            margin-left: 20px;
+            margin-top: 15px;
+
+        }
+
+        /*Pubg style end*/
+
+
+
+
+        /*Frag Stayle*/
+
+        h4{
+            margin-top: 10px;
+        }
+
+        h4,p{
+
+            padding : 0px 0px 0px 22px; 
+        }
+
+        .secondDiv{
+            background-color: white;
+            height: 270px;
+            width: 200px;
+            display: inline-block;
+          
+
+        }
+
+        .secondDiv > img{
+            
+            margin: 25px 25px 0px 25px  ;
+        }
+
+        .fragRatings{
+            margin-left: 20px;
+            margin-top: 15px;
+
+        }
+
+
+        /*Frag end */
+
+
+
+
+        /*coc start*/
+        h4{
+            margin-top: 10px;
+        }
+
+        h4,p{
+
+            padding : 0px 0px 0px 22px; 
+        }
+
+        .cocDiv{
+            background-color: white;
+            height: 270px;
+            width: 200px;
+            display: inline-block;
+          
+
+        }
+
+        .cocDiv > img{
+            
+            margin: 25px 25px 0px 25px  ;
+        }
+
+        .cocRatings{
+            margin-left: 20px;
+            margin-top: 15px;
+
+        }
+        /*coc ends*/
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
